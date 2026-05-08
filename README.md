@@ -1,6 +1,6 @@
 # uwu owo i am gay
 
-A gloriously extra terminal demo for people who believe pride should be loud, sparkly, and impossible to ignore.
+personal hobby app created by GitHub.com/spectral
 
 ## What it does
 
