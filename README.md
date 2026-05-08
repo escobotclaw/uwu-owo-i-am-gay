@@ -1,6 +1,6 @@
 # uwu owo i am gay
 
-personal hobby app created by GitHub.com/spectral
+personal hobby app created by Enuk
 
 ## What it does
 
